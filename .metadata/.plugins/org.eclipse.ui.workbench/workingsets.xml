@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1470725723546_2" label="taotao" name="taotao">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manage-pojo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manage-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-cart" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manage-mapper" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-sso-query-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-search" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manage-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-sso" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-sso-query-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-order" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manage" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1471916255784_3" label="dubbo" name="dubbo">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-registry" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-rpc-thrift" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-registry-simple" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-test" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-demo-consumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-remoting-p2p" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-config-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-test-integration" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-rpc-rmi" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-container-jetty" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-remoting-mina" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-admin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-remoting" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-filter-cache" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-container-spring" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-demo-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-remoting-netty" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-monitor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-remoting-zookeeper" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-registry-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-rpc-memcached" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-config-spring" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-container-logback" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-demo-provider" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-container-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-registry-multicast" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-monitor-default" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-config" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-test-examples" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/opensesame" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-registry-redis" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-rpc-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-remoting-http" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-rpc-hessian" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-cluster" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-registry-default" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-rpc-redis" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-rpc-injvm" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-filter-validation" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-remoting-grizzly" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-rpc-http" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-rpc-webservice" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-registry-zookeeper" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-container-log4j" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-monitor-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-test-benchmark" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hessian-lite" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-monitor-simple" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-simple" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-remoting-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-rpc" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-container" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-dubbo-2.5.3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-filter" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-rpc-default" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-test-compatibility" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1471920123217_4" label="my-dubbo" name="my-dubbo">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-a" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-b-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-b" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1470619496569_0" label="Window Working Set" name="Aggregate for window 1470619496569"/>
+</workingSetManager>
